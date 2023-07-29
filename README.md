@@ -15,7 +15,7 @@
 - <b>HTML & CSS</b>
 <h2> Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/moaz-ali-050b2b277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moaz-ali-050b2b277" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/moazalihere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moaz-ali-050b2b277" height="50" width="50" /></a>
 <a href="https://public.tableau.com/app/profile/moaz.ali" target="blank"><img align="center" src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" height="50" width="50" /></a>
 </p>
 
@@ -39,17 +39,3 @@ You can also check out its 👉🏻 [(Visualization in Tableau)](https://public.
 
 - [Plant Disease Detection](https://github.com/MoazCraftsCode/Plant-Disease-Detection-using-opencv)
   
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
