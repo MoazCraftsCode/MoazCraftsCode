@@ -1,4 +1,4 @@
-![logo](https://github.com/MoazCraftsCode/MoazCraftsCode/blob/main/banner1.png)
+![logo](https://github.com/MoazCraftsCode/MoazCraftsCode/blob/main/Minimalist Corporate LinkedIn Banner.png)
 <h1>Hi, I'm Moaz Ali! </h1>
 <h3> I am a Data Analyst with a passion for decoding the intricate web of information to reveal the underlying stories hidden within data</h3>
 <h2> Certifications:</h2>
