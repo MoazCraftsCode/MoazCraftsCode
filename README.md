@@ -1,9 +1,10 @@
-![logo](https://github.com/MoazCraftsCode/MoazCraftsCode/blob/main/Minimalist Corporate LinkedIn Banner.png)
+![logo](https://github.com/MoazCraftsCode/MoazCraftsCode/blob/main/final.png)
 <h1>Hi, I'm Moaz Ali! </h1>
-<h3> I am a Data Analyst with a passion for decoding the intricate web of information to reveal the underlying stories hidden within data</h3>
+<h3> As a Software Developer with a strong foundation in Computer Science, I am poised to take on challenging roles in software development</h3>
 <h2> Certifications:</h2>
 
 - [Google Data Analytics](https://coursera.org/share/0e17355d2b290878f3cfd22db521ab13)
+- [Huawei HCIA-Datacom]
 - [Data Analytics Bootcamp by Alexander Freberg](https://github.com/MoazCraftsCode/MoazCraftsCode/blob/main/Certificate.png)
 <h2> Technical Skills:</h2>
 
