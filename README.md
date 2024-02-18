@@ -4,7 +4,7 @@
 <h2> Certifications:</h2>
 
 - [Google Data Analytics](https://coursera.org/share/0e17355d2b290878f3cfd22db521ab13)
-- [Huawei HCIA-Datacom]
+- [Huawei HCIA-Datacom](https://github.com/MoazCraftsCode/MoazCraftsCode/blob/main/hcia.png)
 - [Data Analytics Bootcamp by Alexander Freberg](https://github.com/MoazCraftsCode/MoazCraftsCode/blob/main/Certificate.png)
 <h2> Technical Skills:</h2>
 
